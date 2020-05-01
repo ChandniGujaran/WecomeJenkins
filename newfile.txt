@@ -1,0 +1,12 @@
+ Volume in drive C is OSDisk
+ Volume Serial Number is BCCA-6571
+
+ Directory of C:\Users\chandini_gujaran\Desktop\JavaWelcome
+
+05/01/2020  09:58 PM    <DIR>          .
+05/01/2020  09:58 PM    <DIR>          ..
+05/01/2020  09:58 PM                 0 newfile.txt
+05/01/2020  09:24 PM               416 Welcome.class
+05/01/2020  09:23 PM               108 Welcome.java
+               3 File(s)            524 bytes
+               2 Dir(s)  180,644,794,368 bytes free
